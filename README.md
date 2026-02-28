@@ -98,5 +98,5 @@ Docker • AWS • GitHub • GitLab CI • Composer • Nginx • Apache • Po
 ## Social
 
 LinkedIn: https://linkedin.com/in/pavlo-vovk-37437824b  
-GitHub: https://github.com/dazkok
+GitHub: https://github.com/dazkok  
 Instagram: https://instagram.com/x_xxost
